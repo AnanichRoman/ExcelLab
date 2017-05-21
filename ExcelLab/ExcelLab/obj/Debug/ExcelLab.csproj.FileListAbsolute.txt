@@ -1,0 +1,25 @@
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\bin\Debug\ExcelLab.exe.config
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\bin\Debug\ExcelLab.exe
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\bin\Debug\ExcelLab.pdb
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\obj\Debug\ExcelLab.csprojResolveAssemblyReference.cache
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\obj\Debug\ExcelLab.Form1.resources
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\obj\Debug\ExcelLab.Properties.Resources.resources
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\obj\Debug\ExcelLab.csproj.GenerateResource.Cache
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\obj\Debug\ExcelLab.exe
+C:\Users\10702313-Ananich\AppData\Local\Temporary Projects\ExcelLab\obj\Debug\ExcelLab.pdb
+G:\ExcelLab\ExcelLab\bin\Debug\ExcelLab.exe.config
+G:\ExcelLab\ExcelLab\obj\Debug\ExcelLab.exe
+G:\ExcelLab\ExcelLab\obj\Debug\ExcelLab.pdb
+G:\ExcelLab\ExcelLab\bin\Debug\ExcelLab.exe
+G:\ExcelLab\ExcelLab\bin\Debug\ExcelLab.pdb
+G:\ExcelLab\ExcelLab\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+G:\ExcelLab\ExcelLab\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+G:\ExcelLab\ExcelLab\obj\Debug\ExcelLab.csprojResolveAssemblyReference.cache
+G:\ExcelLab\ExcelLab\obj\Debug\ExcelLab.Form1.resources
+G:\ExcelLab\ExcelLab\obj\Debug\ExcelLab.Properties.Resources.resources
+G:\ExcelLab\ExcelLab\obj\Debug\ExcelLab.csproj.GenerateResource.Cache
+C:\Users\Nowel\Desktop\КУРСАЧИ\LABS\ExcelLab\ExcelLab\ExcelLab\bin\Debug\ExcelLab.exe.config
+C:\Users\Nowel\Desktop\КУРСАЧИ\LABS\ExcelLab\ExcelLab\ExcelLab\obj\Debug\ExcelLab.exe
+C:\Users\Nowel\Desktop\КУРСАЧИ\LABS\ExcelLab\ExcelLab\ExcelLab\obj\Debug\ExcelLab.pdb
